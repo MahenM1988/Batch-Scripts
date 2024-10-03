@@ -1,7 +1,7 @@
 @echo off
 setlocal
 
-set "SOURCE=C:\Users\Mahen Mahindaratne\OneDrive\Desktop\Source"
+set "SOURCE=C:\"
 set "DESTINATION=%~d0\Backup\Path"
 
 :: Perform the backup
