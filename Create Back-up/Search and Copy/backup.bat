@@ -1,8 +1,9 @@
 @echo off
 setlocal
 
-:: Get the current user's Documents folder path
-for %%D in ("%USERPROFILE%\Documents") do set "SOURCE=%%~D"
+:: Get the source path from the user
+set /p "SOURCE=Enter the path to search (default is Documents): "
+if "%SOURCE%"=="" set "SOURCE=%USERPROFILE%\Documents"
 
 :: Set the destination path
 set "DESTINATION=%~d0\Backup\Path"
