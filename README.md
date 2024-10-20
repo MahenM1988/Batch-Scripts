@@ -17,7 +17,7 @@ The dynamic path `backup.bat` automates the backup process for specific user dir
 The faster copy option performs a backup of specified user folders (Desktop, Documents, Downloads, Pictures, and Videos) while temporarily suspending specified processes and logs the entire operation to a log file.
 
 ## Compile and Execute
-You will need to compile these as .exe files.
+You will need to compile these as .exe files for execution.
 
 ## A Word of Caution
 
