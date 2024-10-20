@@ -23,4 +23,4 @@ You will need to compile these as .exe files for execution.
 
 Please use these scripts responsibly and only with proper, legitimate access to the SOURCE.
 
-Please note that incorrect execution of batch scripts, especially with PowerShell, could irrevocably damage registries and corrupt your data. Exercise caution and responsibility.
+Please note that incorrect execution of batch scripts, especially within PowerShell, could irrevocably damage registries and corrupt your data. Exercise caution and responsibility.
