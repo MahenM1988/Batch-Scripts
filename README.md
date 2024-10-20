@@ -5,13 +5,13 @@ The creation of these batch scripts was inspired by Natasha Romanoff from *Capta
 ## Overview of Batch Scripts
 
 ### main backup.bat
-The `main backup.bat` script requires you to set the SOURCE directory. It will copy all files from the specified SOURCE directory to the DESTINATION directory.
+The main `backup.bat` script requires you to set the SOURCE directory. It will copy all files from the specified SOURCE directory to the DESTINATION directory.
 
 ### search and copy backup.bat
-The `search and copy backup.bat` allows the user to search for files containing a specified word within a designated directory and back them up to a specified destination.
+The search and copy `backup.bat` allows the user to search for files containing a specified word within a designated directory and back them up to a specified destination.
 
 ### dynamic path backup.bat
-The `dynamic path backup.bat` automates the backup process for specific user directories (Desktop, Documents, Downloads, Pictures, and Videos) to a designated backup location.
+The dynamic path `backup.bat` automates the backup process for specific user directories (Desktop, Documents, Downloads, Pictures, and Videos) to a designated backup location.
 
 ### faster copy option
-The `faster copy option` performs a backup of specified user folders (Desktop, Documents, Downloads, Pictures, and Videos) while temporarily suspending specified processes and logs the entire operation to a log file.
+The faster copy option performs a backup of specified user folders (Desktop, Documents, Downloads, Pictures, and Videos) while temporarily suspending specified processes and logs the entire operation to a log file.
