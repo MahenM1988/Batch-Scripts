@@ -1,6 +1,6 @@
 # Batch Scripts Inspired by Natasha Romanoff, the Black Widow, and the MCU
 
-The creation of these batch scripts was inspired by Natasha Romanoff from *Captain America: The Winter Soldier*, who was running a side operation while the rest of the S.T.R.I.K.E. team, led by Captain America, focused on bringing down the pirates led by Georges Batroc and freeing the Lemurian Star. When Steve Rogers crashed into a server terminal room and found the Black Widow inside, she casually said, "...backing up the hard drive; it’s a good habit to get into..."
+The creation of these batch scripts was inspired by Natasha Romanoff from *Captain America: The Winter Soldier*, who was running a side operation while the rest of the S.T.R.I.K.E. team, led by Captain America, focused on bringing down the pirates led by Georges Batroc and freeing the Lemurian Star. When Steve Rogers crashed into a server terminal room and found the Black Widow inside, and asked what she was doing there, she casually said, "...backing up the hard drive; it’s a good habit to get into..."
 
 ## Overview of Batch Scripts
 
@@ -16,6 +16,7 @@ The dynamic path `backup.bat` automates the backup process for specific user dir
 ### faster copy option
 The faster copy option performs a backup of specified user folders (Desktop, Documents, Downloads, Pictures, and Videos) while temporarily suspending specified processes and logs the entire operation to a log file.
 
+## Compile and Execute
 You will need to compile these as .exe files.
 
 ## A Word of Caution
